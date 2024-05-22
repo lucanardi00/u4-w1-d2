@@ -2,12 +2,12 @@ package Es2;
 
 import java.util.Scanner;
 
-public class Es2 {
+public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Dammi un numero");
+        System.out.print("Dammi un numero: ");
 
         int numero = Integer.parseInt(scanner.nextLine());
 

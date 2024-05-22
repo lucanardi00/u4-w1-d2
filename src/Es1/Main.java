@@ -1,6 +1,6 @@
 package Es1;
 
-public class Es1 {
+public class Main {
     public static <Int> void main(String[] args) {
         String parola = "Parola";
 
